@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/03974c20-17c4-4d55-9bb6-1dba672d5509)
+
 <h1 align="center">Hi 👋, I'm Shakir Hasan</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
