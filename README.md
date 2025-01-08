@@ -51,9 +51,9 @@
 
 <h3 align="left">Pinned Repositories:</h3>
 <p align="left">
-<a href="https://github.com/shakirhasan133/project1" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=shakirhasan133&repo=project1" alt="Project 1"/> </a>
-<a href="https://github.com/shakirhasan133/project2" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=shakirhasan133&repo=project2" alt="Project 2"/> </a>
-<a href="https://github.com/shakirhasan133/project3" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=shakirhasan133&repo=project3" alt="Project 3"/> </a>
+<a href="https://github.com/shakirhasan133/WhereIsIt-Client" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=shakirhasan133&repo=WhereIsIt-Client" alt="Project 1"/> </a>
+<a href="https://github.com/shakirhasan133/crowdcube-client" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=shakirhasan133&repo=crowdcube-client" alt="Project 2"/> </a>
+<a href="https://github.com/shakirhasan133/winteraid" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=shakirhasan133&repo=winteraid" alt="Project 3"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shakirhasan133&show_icons=true&locale=en&layout=compact" alt="shakirhasan133" /></p>
