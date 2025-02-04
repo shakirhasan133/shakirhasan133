@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakirhasan133" alt="shakirhasan133" /></a> </p>
 
-- 🌱 I’m currently learning **Express JS, AXIOS, MONGOOS,**
+- 🌱 I’m currently learning **Next JS, MongoDB, MONGOOS,**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shakirhasan133](https://github.com/shakirhasan133)
 
 - 📝 I regularly write articles on [shakirahmmad.com](shakirahmmad.com)
 
-- 💬 Ask me about **REACT JS, EXPRESS JS, MONGODB, TAILWIND CSS**
+- 💬 Ask me about **React JS, EXPRESS JS, MONGODB, TAILWIND CSS**
 
 - 📫 How to reach me **shakirahmmad2002@gmail.com**
 
@@ -33,7 +33,7 @@
 <!--   <a href="tel:+8801625618819" target="blank">
     <img align="center" src="https://img.icons8.com/color/48/apple-phone.png" alt="Phone" height="40" width="40" />
   </a> -->
-  <a href="mailto:your-email@example.com" target="blank">
+  <a href="mailto:shakirahmmad2002@gmail.com" target="blank">
     <img align="center" src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Email" height="40" width="40" />
   </a>
   📞 Phone: +8801625618819
