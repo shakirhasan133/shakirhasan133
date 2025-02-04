@@ -24,9 +24,23 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shakir-ahmmad-6439641b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shakir-ahmmad-6439641b6" height="30" width="40" /></a>
-<a href="https://fb.com/shakir133" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shakir133" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/shakir-ahmmad-6439641b6" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/shakir133" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+<!--   <a href="tel:+8801625618819" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/apple-phone.png" alt="Phone" height="40" width="40" />
+  </a> -->
+  <a href="mailto:your-email@example.com" target="blank">
+    <img align="center" src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Email" height="40" width="40" />
+  </a>
+  📞 Phone: +8801625618819
+
 </p>
+
+
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
