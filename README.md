@@ -12,13 +12,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shakirhasan133](https://github.com/shakirhasan133)
 
-- 📝 I regularly write articles on [shakirahmmad.com](shakirahmmad.com)
+- 📝 I regularly write articles on [https://shakirahmmad.netlify.app](https://shakirahmmad.netlify.app)
 
 - 💬 Ask me about **React JS, EXPRESS JS, MONGODB, TAILWIND CSS**
 
 - 📫 How to reach me **shakirahmmad2002@gmail.com**
 
-- 📄 Know about my experiences [shakirahmmad.com](shakirahmmad.com)
+- 📄 Know about my experiences [https://shakirahmmad.netlify.app](https://shakirahmmad.netlify.app)
 
 - ⚡ Fun fact **My Desk Chair Love me a lot.**
 
